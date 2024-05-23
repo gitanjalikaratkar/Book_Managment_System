@@ -1,0 +1,42 @@
+.navbar {
+    height: 11vh;
+    color: black;
+}
+
+.navbar .container-fluid {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid .navbar-brand {
+   
+    margin-right: 20%;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar-brand img {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.heading {
+    font-size: 25px;
+    padding: 25px;
+    color: #a80158;
+    text-shadow: rgb(250, 159, 191) 1px 0 10px;
+    -webkit-text-stroke: 1.2px rgb(124, 6, 45);
+}
+
+.navbar .navbar-nav .nav-link {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navbar .navbar-nav .nav-item {
+    margin-right: 30px;
+}

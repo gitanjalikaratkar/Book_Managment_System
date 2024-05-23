@@ -1,0 +1,75 @@
+ .book-container {
+    height: 10vh;
+    width: 80vw;
+    background-color: #9EC8B9;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 2px;
+}
+
+
+.book-data {
+    height: auto;
+    padding: 5px 5px 5px 10px;
+    display: flex;
+    align-items: center;
+    background-color: #1B4242;
+    color: white;
+    border-radius: 3px;
+}
+
+.input-data {
+    height: auto;
+    font-size: 15px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 5px;
+
+}
+
+#container-data1 {
+    width: 4%;
+    /* padding: 1.5%; */
+
+}
+
+#container-data2 {
+    width: 25%;
+}
+
+#container-data3 {
+    width: 20%;
+}
+
+#container-data4 {
+    width: 9%;
+}
+
+#input-data2 {
+    width: 26%;
+}
+
+#input-data3 {
+    width: 21%;
+}
+
+#input-data4 {
+    width: 9.5%;
+}
+
+
+#btnRemove {
+    height: 40%;
+    width: 9%;
+    background-color: rgb(179, 5, 5);
+    color: white;
+}
+
+#btnUpdate {
+    height: 40%;
+    width: 9%;
+    background-color: green;
+    color: white;
+
+} 

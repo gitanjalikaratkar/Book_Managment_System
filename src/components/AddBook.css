@@ -1,0 +1,63 @@
+.form-container {
+    height: 10vh;
+    width: 80vw;
+    background-color: #092635;
+    color: #ffffff;
+    margin-top: 10px;
+    
+}
+.form-div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.enteredInput{
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 5px;
+    background-color: #e3faf1;
+    margin-left: 5px;
+
+}
+
+#btnAdd{
+    height: 45%;
+    width: 5%;
+    background-color: green;
+    color: white;
+
+}
+
+
+ #span1{
+    width: 10%;
+}
+
+#textId{
+    width: 60%;
+}
+
+#span2{
+    width: 25%;
+}
+#textTitle{
+    width: 80%;
+}
+
+#span3{
+    width: 27%;
+}
+#textAuthor{
+    width: 75%;
+}
+
+#span4{
+    width: 15%;
+}
+#textPrice{
+    width: 60%;
+}
